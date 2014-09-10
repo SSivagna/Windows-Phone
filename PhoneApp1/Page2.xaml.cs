@@ -11,14 +11,14 @@ using System.Windows.Media.Animation;
 using System.Windows.Shapes;
 using Microsoft.Phone.Controls;
 
-namespace PhoneApp_Touch
+namespace PhoneApp1
 {
-    public partial class MainPage : PhoneApplicationPage
+    public partial class Page2 : PhoneApplicationPage
     {
         int nbMoves;
 
         // Constructeur
-        public MainPage()
+        public Page2()
         {
             InitializeComponent();
             Touch.FrameReported += OnTouchFrameReported;

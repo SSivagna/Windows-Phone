@@ -26,7 +26,7 @@ namespace PhoneApp2
             count = 0;
             InitializeComponent();
 
-            dt.Tick += onTimerTick;
+           // dt.Tick += onTimerTick;
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
@@ -37,7 +37,7 @@ namespace PhoneApp2
 
             DispatcherTimer newTimer = new DispatcherTimer();
             newTimer.Interval = TimeSpan.FromSeconds(1);
-            newTimer.Tick += onTimerTick;
+          //  newTimer.Tick += onTimerTick;
             newTimer.Start();
                           
         }

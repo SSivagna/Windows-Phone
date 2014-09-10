@@ -17,17 +17,18 @@
     <Grid x:Name="LayoutRoot" Background="Transparent">
 
         <!--TitlePanel contient le nom de l'application et le titre de la page-->
-        <StackPanel x:Name="TitlePanel" Margin="12,17,8,619">
+        <StackPanel x:Name="TitlePanel" Margin="12,12,8,619">
+            <!--<Button Content="Next" Height="68" Width="458" Click="onButtonClicked"></Button>-->
             <TextBlock x:Name="ApplicationTitle" Text="MON APPLICATION" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock x:Name="PageTitle" Text="ITI11M" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" Width="450" />
+            <TextBlock x:Name="PageTitle" Text="ITI11M" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" Width="424" Height="80" FontSize="40" />
         </StackPanel>
 
         <!--ContentPanel - placez tout contenu supplémentaire ici-->
-        <Grid x:Name="ContentPanel" Margin="12,0,8,0" ShowGridLines="True" Height="613" VerticalAlignment="Bottom">
+        <Grid x:Name="ContentPanel" Margin="12,0,0,68" ShowGridLines="True" Height="523" VerticalAlignment="Bottom">
             <Grid.RowDefinitions>
-                <RowDefinition Height="218"></RowDefinition>
-                <RowDefinition Height="210"></RowDefinition>
-                <RowDefinition Height="185*" />
+                <RowDefinition Height="188"></RowDefinition>
+                <RowDefinition Height="188"></RowDefinition>
+                <RowDefinition Height="169*" />
             </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="158"></ColumnDefinition>
@@ -44,5 +45,6 @@
             <TextBlock Text="" FontSize="50" FontStyle="Normal" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" Margin="72,37,42,53" DoubleTap="zozo" Width="54" Tap="zero" />
             <TextBlock Text="" FontSize="50" FontStyle="Normal" Grid.Row="2" Grid.Column="2" HorizontalAlignment="Center" Margin="52,37,34,53" DoubleTap="zozo" Width="48" Tap="zero" />
         </Grid>
+        <Button Name="btn"  Content="Next" Height="68" Width="458" Margin="10,700,12,0" Click="Button_Click"/>
     </Grid>
 </phone:PhoneApplicationPage>

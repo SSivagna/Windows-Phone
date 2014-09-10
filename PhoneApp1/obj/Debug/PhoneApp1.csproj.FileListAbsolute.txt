@@ -10,3 +10,4 @@ C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp1\obj\Debu
 C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp1\obj\Debug\PhoneApp1.dll
 C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp1\obj\Debug\PhoneApp1.pdb
 C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp1\obj\Debug\XapCacheFile.xml
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp1\obj\Debug\Page2.g.i.cs

@@ -20,10 +20,10 @@ namespace PhoneApp1
         {
             InitializeComponent();
 
-            foreach (UIElement cc in  TitlePanel.Children)
-            {
-                (cc as TextBlock).Text = "My Appli"; 
-            }
+            //foreach (UIElement cc in  TitlePanel.Children)
+            //{
+            //    (cc as TextBlock).Text = "My Appli"; 
+            //}
             
             foreach (UIElement cc in  ContentPanel.Children)
             {
@@ -37,7 +37,7 @@ namespace PhoneApp1
 
             T00.DoubleTap += zozo;
 
-            T00.DoubleTap += zero;
+            T00.DoubleTap += zero;   
         }
 
         public void zozo(object sender, System.Windows.Input.GestureEventArgs e)
@@ -48,6 +48,18 @@ namespace PhoneApp1
         public void zero(object sender, System.Windows.Input.GestureEventArgs e)
         {
             (sender as TextBlock).Text = "O";
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Hello");
+
+            string destination = "/Page2.xaml";
+
+            this.NavigationService.Navigate(new Uri(destination, UriKind.Relative));
+
+          //  e.Complete();
+           // e.Handled = true;
         }
     }
 }
