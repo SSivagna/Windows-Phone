@@ -1,0 +1,12 @@
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp1\Bin\Debug\ApplicationIcon.png
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp1\Bin\Debug\Background.png
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp1\Bin\Debug\PhoneApp1.dll
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp1\Bin\Debug\AppManifest.xaml
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp1\Bin\Debug\PhoneApp1.xap
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp1\obj\Debug\App.g.i.cs
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp1\obj\Debug\MainPage.g.i.cs
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp1\obj\Debug\PhoneApp1.dll
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp1\obj\Debug\PhoneApp1.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp1\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,12 @@
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp_Touch\obj\Debug\App.g.i.cs
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp_Touch\obj\Debug\MainPage.g.i.cs
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp_Touch\obj\Debug\PhoneApp_Touch.g.resources
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp_Touch\Bin\Debug\ApplicationIcon.png
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp_Touch\Bin\Debug\Background.png
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp_Touch\Bin\Debug\PhoneApp_Touch.dll
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp_Touch\Bin\Debug\PhoneApp_Touch.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp_Touch\Bin\Debug\AppManifest.xaml
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp_Touch\Bin\Debug\PhoneApp_Touch.xap
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp_Touch\obj\Debug\PhoneApp_Touch.dll
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp_Touch\obj\Debug\PhoneApp_Touch.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\PhoneApp_Touch\obj\Debug\XapCacheFile.xml
